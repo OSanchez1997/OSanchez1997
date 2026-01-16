@@ -4,3 +4,9 @@ He trabajado con herramientas como Python (Pandas, NumPy, Matplotlib), SQL, Exce
 
 🎯 Objetivo profesional:
 Iniciar mi carrera como Analista de Datos Jr, aportar valor a través del análisis y visualización de datos, y desarrollarme en un entorno donde los datos sean clave para la toma de decisiones.
+
+💻 **Herramientas y Tecnologías:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
