@@ -10,7 +10,8 @@ Soy **Analista de Datos con enfoque en Marketing Analytics**, con experiencia en
 - 📈 Enfoque en métricas de marketing y comportamiento de usuarios  
 - 🎨 Background en diseño, lo que me permite crear visualizaciones claras y efectivas  
 - 🧠 Interesado en data storytelling y comunicación de insights  
-- 📍 Interesado en roles de Marketing Data Analyst, Growth Analyst y Insights Analyst  
+- 📍 Interesado en roles de Marketing Data Analyst, Growth Analyst y Insights Analyst
+  
 💻 **Herramientas y Tecnologías:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -30,5 +31,5 @@ Aquí encontrarás proyectos relacionados con:
 
 ## 📫 Contacto
 
-- LinkedIn: [tu link]  
-- Email: [tu correo]  
+- LinkedIn: [www.linkedin.com/in/oscar-sánchez-8645541b1]  
+- Email: [oscar.saar.1997@gmail.com]  
