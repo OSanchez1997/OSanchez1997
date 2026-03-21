@@ -10,7 +10,7 @@ Soy **Analista de Datos con enfoque en Marketing Analytics**, con experiencia en
 - 📈 Enfoque en métricas de marketing y comportamiento de usuarios  
 - 🎨 Background en diseño, lo que me permite crear visualizaciones claras y efectivas  
 - 🧠 Interesado en data storytelling y comunicación de insights  
-- 📍 Interesado en roles de Marketing Data Analyst, Growth Analyst y Insights Analyst
+- 📍 Interesado en roles de Marketing Data Analyst y Visualization Analyst
   
 💻 **Herramientas y Tecnologías:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
