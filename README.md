@@ -1,12 +1,34 @@
-Soy Analista de Datos Jr con una sólida base en análisis de datos, estadística y visualización, enfocado en transformar datos en información útil para la toma de decisiones. Actualmente busco mi primera oportunidad profesional como analista de datos, donde pueda aplicar mis habilidades técnicas, seguir aprendiendo y generar impacto con datos.
+# 👋 Hola, soy Oscar Sanchez
 
-He trabajado con herramientas como Python (Pandas, NumPy, Matplotlib), SQL, Excel y Tableau, realizando procesos de limpieza de datos, análisis exploratorio (EDA), visualización y pruebas A/B a través de proyectos prácticos y académicos.
+Soy **Analista de Datos con enfoque en Marketing Analytics**, con experiencia en análisis de datos, visualización y comunicación de insights. Me especializo en transformar datos en información clara que apoye la toma de decisiones en marketing y negocio.
 
-🎯 Objetivo profesional:
-Iniciar mi carrera como Analista de Datos Jr, aportar valor a través del análisis y visualización de datos, y desarrollarme en un entorno donde los datos sean clave para la toma de decisiones.
+---
 
+## 🚀 Sobre mí
+
+- 📊 Experiencia en análisis de datos con Python, SQL y Excel  
+- 📈 Enfoque en métricas de marketing y comportamiento de usuarios  
+- 🎨 Background en diseño, lo que me permite crear visualizaciones claras y efectivas  
+- 🧠 Interesado en data storytelling y comunicación de insights  
+- 📍 Interesado en roles de Marketing Data Analyst, Growth Analyst y Insights Analyst  
 💻 **Herramientas y Tecnologías:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+## 📂 Proyectos
+
+Aquí encontrarás proyectos relacionados con:
+
+- 📈 Análisis de datos de marketing  
+- 🛒 E-commerce analytics  
+- 📊 Dashboards y visualización de datos  
+- 🔍 Exploración y limpieza de datos  
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: [tu link]  
+- Email: [tu correo]  
